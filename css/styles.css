@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+:root {
+    --color-primary: tomato;
+    --font: 'Righteous', cursive;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html {
+    font-size: 65%;
+  }
+  
+  html, body {
+    height: 100vh;
+  }
+  
+  body {
+    font-family: var(--font);
+  
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  header {
+    font-size: 4rem;
+    margin: 2rem;
+  }
+  
+  header h3 {
+    text-decoration: underline var(--color-primary);
+  }
+
+  footer {
+    padding: 2rem;
+    font-size: 1.8rem;
+  }
+  
+  .container {
+    width: 50rem;
+  }
+  
+  .filter {
+    margin: 2rem 0;
+  
+    gap: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .filter input {
+    font-family: inherit;
+    color: inherit;
+    background-color: #f4f2f2;
+    border: none;
+    padding: .7rem 2rem;
+    border-radius: 2px;
+    width: 80%;
+    height: 3.6rem;
+  }
+  
+  .filter button {
+    border: none;
+    background: var(--color-primary);
+    width: 15%;
+    height: 35px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 600;
+    font-family: inherit;
+    font-size: 1.4rem;
+    cursor: pointer;
+    transition: transform .2s;
+  }
+  
+  .filter button:hover {
+    transform: scale(1.2);
+  }
+
+  .resultContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
