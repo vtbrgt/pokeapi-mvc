@@ -11,7 +11,7 @@ Com o intuito de colocar em prática o padrão de software MVC, baseado no [post
 
 # Acesso ao projeto
 
-Você pode acessar o deploy do projeto [aqui]()
+Você pode acessar o deploy do projeto [aqui](https://vtbrgt.github.io/pokeapi-mvc/)
 
 # Abrir e rodar o projeto
 
