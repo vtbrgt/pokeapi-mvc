@@ -4,7 +4,7 @@
 ![GitHub](https://img.shields.io/github/license/vtbrgt/pokeapi-mvc?style=for-the-badge)
 
 # Descrição do projeto
-Com o intuito de colocar em prática o padrão de software MVC, baseado no [post](https://www.isarubim.com/posts/construindo-um-simples-projeto-mvc-do-zero-com-javascript) da [Isabel Rubim](https://github.com/IsabelRubim), criei esta aplicação simples que faz requisição da infâme PokeApi.
+Com o intuito de colocar em prática o padrão de software MVC, baseado no [post](https://www.isarubim.com/posts/construindo-um-simples-projeto-mvc-do-zero-com-javascript) da [Isabel Rubim](https://github.com/IsabelRubim), criei esta aplicação simples que faz requisição da infame PokeApi.
 
 <!-- # Demonstração da aplicação
  -->
